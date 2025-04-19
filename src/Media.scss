@@ -1,0 +1,41 @@
+@media (max-width: 320px){
+    // *{
+    //     padding: 0;
+    //     margin: 0;
+
+    // }
+    .sec1, .sec2, .sec3, .sec4
+    .sec5 .sec6 .sec7 .sec8 .sec9 .sec10 
+    .sec11{
+        max-width: 320px;
+        margin: 0 auto; // выравнивает по центру
+        padding: 0;
+        
+        padding: 0;
+        display: block;
+        width: 100%;
+        display: block;
+        text-align: center;
+img{
+        padding: 0px;
+        width: 100vw;
+        height: 100px;
+        display: block;
+    }
+    }
+    button{
+        padding: 0;
+        align-items: center;
+    }
+    .sec1-r{
+        
+            img {
+                width: 100%;
+                max-width: 100%;
+                height: auto;
+                display: block;
+              }
+        
+       
+    }
+}
